@@ -1,0 +1,25 @@
+.cont{
+    margin-top: 20px;
+    border: solid black 3px;
+    border-color:blue;
+    background-color: rgb(15, 193, 199);
+}
+.cont__title{
+    text-align: center;
+    border-bottom-style: outset;
+
+}
+
+
+.cont__container{
+
+    
+    
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+    padding: 10px;
+    gap:10px;
+}
